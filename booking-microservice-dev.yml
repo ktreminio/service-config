@@ -1,9 +1,6 @@
 booking:
   property: Booking Profile Dev
 spring:
-  datasource:
-    url: jdbc:postgresql://localhost:5432/booking_db
-    driver-class-name: org.postgresql.Driver
   jpa:
     generate-ddl: true
     hibernate:
