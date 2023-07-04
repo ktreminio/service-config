@@ -12,4 +12,4 @@ spring:
       ddl-auto: update
     show-sql: true
 app:
-  test-property: Test Property Updated
+  test-property: Test Property Updated v2
