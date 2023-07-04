@@ -1,11 +1,6 @@
 product:
   property: Product Profile Dev
 spring:
-  datasource:
-    url: jdbc:postgresql://localhost:5432/product_db
-    username: postgres
-    password: 12345678
-    driver-class-name: org.postgresql.Driver
   jpa:
     generate-ddl: true
     hibernate:
