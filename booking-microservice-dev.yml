@@ -1,5 +1,5 @@
 booking:
-  property: Booking Profile Dev
+  property: Booking Profile Dev Updated
 spring:
   jpa:
     generate-ddl: true
