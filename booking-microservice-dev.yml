@@ -1,5 +1,5 @@
 booking:
-  property: Booking Profile Dev Updated
+  property: Booking Profile Dev
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/booking_db
